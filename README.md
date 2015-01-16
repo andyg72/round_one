@@ -4,7 +4,9 @@ In this directory there is a file named "textfile.md". It contains several hundr
 
 As a team, you must parse the content of that file and write a Ruby method that checks each line to determine if it is palindromic.
 
-The lines will contain letters, numbers, and non-alphanumeric symbols. Non-alphanumeric characters such as punctuation and quotation marks should not be taken into account, nor should the method check for case-sensitivity. Lines that contain no alphanumeric characters should not be counted towards the total.
+Non-alphanumeric characters such as punctuation and quotation marks should not be taken into account, nor should the method check for case-sensitivity.
+
+Lines that contain no alphanumeric characters should not be counted towards the total.
 
 For example:
 
