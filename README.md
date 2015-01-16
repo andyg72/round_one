@@ -20,4 +20,4 @@ Try to take a test-driven approach - having a spec file is necessary to pass the
 
 Submissions will be evaluated on the basis of well-written tests, clean + readable code, and adherence to SOLID principles.
 
-When your 15 minutes is up, push your solution to Github and Hipchat the repo link to the Codejamz room.
+When your 15 minutes is up, push your solution to Github and Hipchat the repo link to the Codejamz room.# round_one
